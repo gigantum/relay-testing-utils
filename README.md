@@ -20,7 +20,7 @@ Please create `__mocks__/react-relay.js` in your project repository and add the 
 
 ```javascript
 import relayTestingUtils from 'relay-testing-utils'
-const relay = jest.genMockFromModule('react-relay');
+const relay = jest.fn('react-relay');
 
 
 export default relayTestingUtils.relayMock(relay)

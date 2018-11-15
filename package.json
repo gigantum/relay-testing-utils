@@ -1,6 +1,6 @@
 {
-  "name": "relay-testing-utils",
-  "version": "1.0.3",
+  "name": "@gigantum/relay-testing-utils",
+  "version": "0.1.0",
   "description": "Easy to use relay mock and unit testing tool (works with Jest & Enzyme)",
   "main": "build/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meuschke/relay-testing-utils.git"
+    "url": "git+https://github.com/gigantum/relay-testing-utils"
   },
   "keywords": [
     "relay",
@@ -21,9 +21,9 @@
   "author": "Toni Meuschke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/meuschke/relay-testing-utils/issues"
+    "url": "https://github.com/gigantum/relay-testing-utils"
   },
-  "homepage": "https://github.com/meuschke/relay-testing-utils#readme",
+  "homepage": "https://github.com/gigantum/relay-testing-utils",
   "dependencies": {
     "react": "^15.3.1"
   },
